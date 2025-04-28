@@ -1,0 +1,31 @@
+body{
+    background-color: #686ded;
+}
+h1{
+    color:pink;
+    text-align: center;
+    font-size: 5rem;
+}
+
+table{
+    padding-left: 29%;
+}
+
+.game{
+    color:pink;
+    font-size: 3rem;
+    padding-right: 100px;
+}
+
+.btn{
+    color: rgb(1, 1, 1);
+    margin-left: 2%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    height: 55px;
+    width: 225px;
+    border-radius: 25px;
+    font-weight: 1.5rem;
+    cursor: pointer;
+    background-color:pink;
+}
